@@ -1,4 +1,4 @@
-# user_retention_case_study
+# saas-user-analytics-case-study
 Case study analysing user behavior, retention, and revenue patterns.
 
 # User Retention & Growth Case Study (Synthetic SaaS Data)
